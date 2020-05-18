@@ -1,5 +1,5 @@
 # baseball-11
-온라인 야구게임 - 11팀
+온라인 야구게임 - 11팀 [**iOS App Link**][ios-link]
 
 - FE - [Taek](https://github.com/seungdeng17)⚽️
 - BE - [Sunny](https://github.com/kses1010)🌞
@@ -37,3 +37,5 @@
 - [BE]
 - [FE]
 - [iOS]
+
+[ios-link]: https://github.com/seizze/baseball-11/tree/dev/iOS
